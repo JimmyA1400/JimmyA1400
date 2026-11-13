@@ -1,4 +1,4 @@
-## James Amalfitano
+## Jimmy Amalfitano
 
 I build web apps in TypeScript and Postgres. Most of my repositories are
 private; **[PukaGolf](https://github.com/JimmyA1400/pukagolf)** is the one I've
